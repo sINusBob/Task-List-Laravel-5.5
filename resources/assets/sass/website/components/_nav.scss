@@ -1,0 +1,30 @@
+.navbar
+{
+    margin-bottom: 0px;
+    background-color: white;
+    border: 0;
+
+    .container
+    {
+        padding: 10px;
+    }
+
+    .navbar-brand
+    {
+        color: $primary;
+        font-family: 'Grand Hotel';
+        font-size: 30px;
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 12px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .navbar-toggle
+    {
+        z-index: 3;
+    }
+
+}

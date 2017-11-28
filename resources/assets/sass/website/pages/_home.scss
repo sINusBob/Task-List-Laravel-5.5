@@ -1,0 +1,48 @@
+.masthead
+{
+	padding-top: 150px;
+	background-image: $primary-gradient;
+	color: white;
+
+	p
+	{
+		color: white;
+	}
+}
+
+#about
+{
+	padding-top: 100px;
+	background-color: white;
+
+	.desktop-img > img
+	{
+		margin: 0 auto;
+	}
+}
+
+#about-app
+{
+	padding-top: 100px;
+	background-color: #f5f5f5;
+	min-height: 400px;
+}
+
+#funcionalities
+{
+	background-image: $functionalities-gradient;
+	padding: 100px 0;
+	color: white;
+
+	.box-simple > p
+	{
+		color: white;
+	}
+}
+
+#newsletter
+{
+	padding: 80px 0;
+	background-color: $footer-above-bg;
+	color: white;
+}

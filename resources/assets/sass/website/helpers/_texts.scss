@@ -1,0 +1,20 @@
+*
+{
+    font-family: 'Roboto';
+    line-height: 1.8em;
+    
+    p
+    {
+        color: $global-font-color;
+    }
+}
+
+.handwritten-title
+{
+    font-family: 'Grand Hotel';
+}
+
+.uppercase-title
+{
+    text-transform: uppercase;
+}

@@ -1,0 +1,26 @@
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Helpers
+@import "website/helpers/variables";
+@import "website/helpers/fonts";
+@import "website/helpers/gradients";
+@import "website/helpers/spacings";
+@import "website/helpers/texts";
+
+// Components
+@import "website/components/nav";
+@import "website/components/footer";
+@import "website/components/head";
+
+// pages
+@import "website/pages/about";
+@import "website/pages/contact";
+@import "website/pages/home";
+
+// Layouts
+@import "website/layouts/responsive";
+
+// External Liberaries
+@import "~animate.css/animate";
+@import "~font-awesome/scss/font-awesome";
